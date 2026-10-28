@@ -168,7 +168,7 @@ Electronic check users had the highest churn rate among the payment methods anal
 |---|---:|
 | Churned customers | $74.44 |
 | Retained customers | $61.31 |
-<img width="1024" height="42" alt="Screenshot 2026-10-28 211425" src="https://github.com/user-attachments/assets/776260b1-7894-4591-81d4-b6a33171ad74" />
+<img width="1024" height="42" alt="Screenshot 2026-10-28 211425" src="results/Screenshot 2026-10-28 211425.png" />
 Churned customers paid approximately $13.13 more per month on average than retained customers in the analyzed dataset.
 
 This difference may help guide further investigation into pricing, service bundles, and perceived value.
