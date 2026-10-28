@@ -136,7 +136,7 @@ Fiber optic customers had a substantially higher churn rate than customers in th
 | No | 41.65% |
 | Yes | 15.20% |
 | No internet service | 7.43% |
-<img width="433" height="78" alt="Screenshot 2026-10-28 210841" src="https://github.com/user-attachments/assets/d4e91975-18df-4563-8167-8c662de9c16d" />
+<img width="433" height="78" alt="Screenshot 2026-10-28 210841" src="results/Screenshot 2026-10-28 210841.png" />
 Customers without technical support had a higher observed churn rate than customers with technical support. This is an association and does not establish that technical support alone causes lower churn.
 
 ### 5. A High-Risk Combined Segment Emerged
