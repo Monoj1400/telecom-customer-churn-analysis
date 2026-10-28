@@ -116,7 +116,7 @@ Month-to-month customers had the highest observed churn rate among the contract 
 | 13–24 months | 28.71% |
 | 25–48 months | 20.39% |
 | 49+ months | 9.51% |
-<img width="408" height="107" alt="Screenshot 2026-10-28 210635" src="https://github.com/user-attachments/assets/d099e3fa-de95-4db9-975d-287f18350aaa" />
+<img width="408" height="107" alt="Screenshot 2026-10-28 210635" src="results/Screenshot 2026-10-28 210416.png" />
 Customers in their first 12 months had the highest churn rate. This suggests that the early customer lifecycle deserves particular attention in retention planning.
 
 ### 3. Fiber Optic Customers Have Higher Observed Churn
