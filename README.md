@@ -159,7 +159,7 @@ The month-to-month fiber optic and month-to-month DSL segments together accounte
 | Mailed check | 19.20% |
 | Bank transfer (automatic) | 16.73% |
 | Credit card (automatic) | 15.25% |
-<img width="470" height="100" alt="Screenshot 2026-10-28 211231" src="https://github.com/user-attachments/assets/7461189c-9350-47b8-85cd-085a6c3a9c98" />
+<img width="470" height="100" alt="Screenshot 2026-10-28 211231" src="results/Screenshot 2026-10-28 211231.png" />
 Electronic check users had the highest churn rate among the payment methods analyzed. Additional investigation could examine whether payment experience, customer preferences, or other customer characteristics are associated with this pattern.
 
 ### 7. Churned Customers Have Higher Average Monthly Charges
