@@ -147,8 +147,7 @@ The month-to-month contract and fiber optic segment had:
 - **1,162** churned customers
 - **54.61%** churn rate
 - **62.17%** of all churned customers
-<img width="504" height="176" alt="image" src="https://github.com/user-attachments/assets/5e3cee3c-0826-4cb0-82f8-3ec927585921" />
-<img width="504" height="176" alt="Screenshot 2026-10-28 211057" src="https://github.com/user-attachments/assets/6f241822-c513-4eaa-bfb5-182f2bda1a63" />
+<img width="504" height="176" alt="image" src="results/Screenshot 2026-10-28 210947.png" />
 This segment contributed the largest number of churned customers among the contract and internet service combinations analyzed.
 The month-to-month fiber optic and month-to-month DSL segments together accounted for **83.25% of all churned customers** in the imported dataset.
 
