@@ -105,7 +105,7 @@ A common table expression was used to calculate each segment's contribution to t
 | Month-to-month | 42.71% |
 | One year | 11.28% |
 | Two year | 2.85% |
-
+<img width="636" height="200" alt="Screenshot 2026-10-28 210416" src="https://github.com/user-attachments/assets/2c356617-ed1f-4ed1-891f-26ca73cabf86" />
 Month-to-month customers had the highest observed churn rate among the contract groups analyzed.
 
 ### 2. Newer Customers Show Higher Churn Rates
@@ -116,7 +116,7 @@ Month-to-month customers had the highest observed churn rate among the contract 
 | 13–24 months | 28.71% |
 | 25–48 months | 20.39% |
 | 49+ months | 9.51% |
-
+<img width="408" height="107" alt="Screenshot 2026-10-28 210635" src="https://github.com/user-attachments/assets/d099e3fa-de95-4db9-975d-287f18350aaa" />
 Customers in their first 12 months had the highest churn rate. This suggests that the early customer lifecycle deserves particular attention in retention planning.
 
 ### 3. Fiber Optic Customers Have Higher Observed Churn
@@ -126,7 +126,7 @@ Customers in their first 12 months had the highest churn rate. This suggests tha
 | Fiber optic | 41.89% |
 | DSL | 19.00% |
 | No internet service | 7.43% |
-
+<img width="417" height="75" alt="Screenshot 2026-10-28 210758" src="https://github.com/user-attachments/assets/3cd15cd4-6374-4216-b7b3-3dffee0d1b75" />
 Fiber optic customers had a substantially higher churn rate than customers in the other internet service categories. Further investigation would be needed to understand the reasons behind this difference.
 
 ### 4. Technical Support Is Associated With Lower Churn
@@ -136,7 +136,7 @@ Fiber optic customers had a substantially higher churn rate than customers in th
 | No | 41.65% |
 | Yes | 15.20% |
 | No internet service | 7.43% |
-
+<img width="433" height="78" alt="Screenshot 2026-10-28 210841" src="https://github.com/user-attachments/assets/d4e91975-18df-4563-8167-8c662de9c16d" />
 Customers without technical support had a higher observed churn rate than customers with technical support. This is an association and does not establish that technical support alone causes lower churn.
 
 ### 5. A High-Risk Combined Segment Emerged
@@ -147,9 +147,9 @@ The month-to-month contract and fiber optic segment had:
 - **1,162** churned customers
 - **54.61%** churn rate
 - **62.17%** of all churned customers
-
+<img width="504" height="176" alt="image" src="https://github.com/user-attachments/assets/5e3cee3c-0826-4cb0-82f8-3ec927585921" />
+<img width="504" height="176" alt="Screenshot 2026-10-28 211057" src="https://github.com/user-attachments/assets/6f241822-c513-4eaa-bfb5-182f2bda1a63" />
 This segment contributed the largest number of churned customers among the contract and internet service combinations analyzed.
-
 The month-to-month fiber optic and month-to-month DSL segments together accounted for **83.25% of all churned customers** in the imported dataset.
 
 ### 6. Electronic Check Users Have Higher Observed Churn
@@ -160,7 +160,7 @@ The month-to-month fiber optic and month-to-month DSL segments together accounte
 | Mailed check | 19.20% |
 | Bank transfer (automatic) | 16.73% |
 | Credit card (automatic) | 15.25% |
-
+<img width="470" height="100" alt="Screenshot 2026-10-28 211231" src="https://github.com/user-attachments/assets/7461189c-9350-47b8-85cd-085a6c3a9c98" />
 Electronic check users had the highest churn rate among the payment methods analyzed. Additional investigation could examine whether payment experience, customer preferences, or other customer characteristics are associated with this pattern.
 
 ### 7. Churned Customers Have Higher Average Monthly Charges
@@ -169,7 +169,7 @@ Electronic check users had the highest churn rate among the payment methods anal
 |---|---:|
 | Churned customers | $74.44 |
 | Retained customers | $61.31 |
-
+<img width="1024" height="42" alt="Screenshot 2026-10-28 211425" src="https://github.com/user-attachments/assets/776260b1-7894-4591-81d4-b6a33171ad74" />
 Churned customers paid approximately $13.13 more per month on average than retained customers in the analyzed dataset.
 
 This difference may help guide further investigation into pricing, service bundles, and perceived value.
